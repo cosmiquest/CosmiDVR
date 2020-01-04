@@ -1,4 +1,4 @@
-## COSMI DVR IPTV and DVR for Android TV
+## COSMIDVR IPTV and DVR for Android TV
 
 an IP-based tuner that enables Android TV's System TV app "Live Channels" to play IPTV Streams from playlists and also enables all the capabilities of "Live Channels", such as Rewind, Fast Forward Live TV and schedule recordings.
 
